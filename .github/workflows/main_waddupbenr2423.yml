@@ -53,4 +53,4 @@ jobs:
           app-name: 'WaddupBENR2423'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_66C37FF217224505B15EDD11484F93B6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B5EA533C98B949B7BFE8E7D3EE94DDF4 }}
