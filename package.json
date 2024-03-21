@@ -1,15 +1,14 @@
 {
-  "dependencies": {
-    "express": "^4.18.3"
-  },
   "name": "waddup",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
-  "description": "��#\u0000 \u0000W\u0000a\u0000d\u0000d\u0000u\u0000p\u0000\r\u0000 \u0000"
+  "dependencies": {
+    "express": "^4.19.1"
+  }
 }
